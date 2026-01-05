@@ -13,7 +13,7 @@ const pool = new Pool({
   user: "postgres",
   host: "localhost",
   database: "ems_db",
-  password: "YOUR_PASSWORD_HERE", // Replace with the password you set during install
+  password: "password123", // Replace with the password you set during install
   port: 5432,
 });
 
